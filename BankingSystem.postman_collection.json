@@ -1,0 +1,231 @@
+{
+	"info": {
+		"_postman_id": "2aebe8dd-7d3d-4e0e-bbfd-44e609763bdf",
+		"name": "BankingSystem",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Soap Services",
+			"item": [
+				{
+					"name": "InsertOrUpdateLimits",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "text/xml",
+								"type": "default"
+							},
+							{
+								"key": "charset",
+								"value": "utf-8",
+								"type": "default"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "<s:Envelope xmlns:s=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n    <s:Body>\r\n        <InsertOrUpdateLimitsResponse xmlns=\"http://tempuri.org/\">\r\n            <InsertOrUpdateLimitsResult>\r\n                \r\n                <MinAmount>100</MinAmount>\r\n                <MaxAmount>10000</MaxAmount>\r\n                <MaxAmountPeriodTypeId>2</MaxAmountPeriodTypeId>\r\n                <MaxAmounPeriodValue>3</MaxAmounPeriodValue>\r\n                <ObjectTypeId>1</ObjectTypeId>\r\n                <ObjectId>3</ObjectId>\r\n                <IsTransferTypeRule>true</IsTransferTypeRule>\r\n                <IsAccountTypeRule>true</IsAccountTypeRule>\r\n                <LimitTransferTypes>\r\n                    <LimitTransferTypeRequest>\r\n                        <Id>1</Id>\r\n                        <LimitId>1</LimitId>\r\n                        <TransferTypeId>2</TransferTypeId>\r\n                    </LimitTransferTypeRequest>\r\n                    <LimitTransferTypeRequest>\r\n                        <Id>1</Id>\r\n                        <LimitId>2</LimitId>\r\n                        <TransferTypeId>2</TransferTypeId>\r\n                    </LimitTransferTypeRequest>\r\n                </LimitTransferTypes>\r\n                <LimitAccountTypes>\r\n                    <LimitAccountTypeRequest>\r\n                        <Id>1</Id>\r\n                        <LimitId>1</LimitId>\r\n                        <AccountTypeId>1</AccountTypeId>\r\n                    </LimitAccountTypeRequest>\r\n                    <LimitAccountTypeRequest>\r\n                        <Id>1</Id>\r\n                        <LimitId>1</LimitId>\r\n                        <AccountTypeId>2</AccountTypeId>\r\n                    </LimitAccountTypeRequest>\r\n                </LimitAccountTypes>\r\n                <CurrencyTypeId>1</CurrencyTypeId>\r\n                <LocationTypeId>1</LocationTypeId>\r\n                <IsActive>true</IsActive>\r\n            </InsertOrUpdateLimitsResult>\r\n        </InsertOrUpdateLimitsResponse>\r\n    </s:Body>\r\n</s:Envelope>",
+							"options": {
+								"raw": {
+									"language": "xml"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44355/Service.asmx",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44355",
+							"path": [
+								"Service.asmx"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetInactiveAccountsUsers",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "text/xml",
+								"type": "default"
+							},
+							{
+								"key": "Accept-Charset",
+								"value": "utf-8",
+								"type": "default"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "<Envelope xmlns=\"http://schemas.xmlsoap.org/soap/envelope/\">\r\n    <Body>\r\n        <GetInactiveAccountsUsers xmlns=\"http://tempuri.org/\">\r\n             \r\n        </GetInactiveAccountsUsers>\r\n    </Body>\r\n</Envelope>",
+							"options": {
+								"raw": {
+									"language": "xml"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44355/Service.asmx",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44355",
+							"path": [
+								"Service.asmx"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetReachedUsers",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "<Envelope xmlns=\"http://schemas.xmlsoap.org/soap/envelope/\">\r\n    <Body>\r\n        <GetReachedUsers xmlns=\"http://tempuri.org/\">\r\n            <limitId>1</limitId>\r\n        </GetReachedUsers>\r\n    </Body>\r\n</Envelope>",
+							"options": {
+								"raw": {
+									"language": "xml"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44355/Service.asmx",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44355",
+							"path": [
+								"Service.asmx"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Limit",
+			"item": [
+				{
+					"name": "GetLimits",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "IsEligible",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"SourceAccountNumber\": 1,\r\n    \"DestinationAccountNumber\": 2,\r\n    \"TransferTypeId\": 1,\r\n    \"Amount\": 1000\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44355/api/Limit/IsEligible",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44355",
+							"path": [
+								"api",
+								"Limit",
+								"IsEligible"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Transaction",
+			"item": [
+				{
+					"name": "GetTransactions",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"From\": \"2021-04-05\",\r\n    \"To\": \"2021-07-05\",\r\n    \"PageSize\": 2,\r\n    \"PageNumber\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44355/api/Transaction?",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44355",
+							"path": [
+								"api",
+								"Transaction"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "User",
+			"item": [
+				{
+					"name": "GetActiveAccountsUsers",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44355/api/User",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44355",
+							"path": [
+								"api",
+								"User"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
