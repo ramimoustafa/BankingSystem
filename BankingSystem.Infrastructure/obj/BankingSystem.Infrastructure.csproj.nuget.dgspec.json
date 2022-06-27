@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Infrastructure\\BankingSystem.Infrastructure.csproj": {}
+    "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Infrastructure\\BankingSystem.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj": {
+    "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj",
         "projectName": "BankingSystem.Domain",
-        "projectPath": "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj",
+        "projectPath": "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\Rami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rami\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Infrastructure\\BankingSystem.Infrastructure.csproj": {
+    "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Infrastructure\\BankingSystem.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Infrastructure\\BankingSystem.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Infrastructure\\BankingSystem.Infrastructure.csproj",
         "projectName": "BankingSystem.Infrastructure",
-        "projectPath": "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Infrastructure\\BankingSystem.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Infrastructure\\BankingSystem.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Rami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rami\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,8 +96,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj": {
-                "projectPath": "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj"
+              "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj"
               }
             }
           }

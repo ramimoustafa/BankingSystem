@@ -1519,11 +1519,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj",
       "projectName": "BankingSystem.Domain",
-      "projectPath": "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj",
+      "projectPath": "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Domain\\BankingSystem.Domain.csproj",
       "packagesPath": "C:\\Users\\Rami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rami\\source\\repos\\BankingSystem\\BankingSystem.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Rami\\source\\repos\\Assessment\\BankingSystem\\BankingSystem.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rami\\AppData\\Roaming\\NuGet\\NuGet.Config",

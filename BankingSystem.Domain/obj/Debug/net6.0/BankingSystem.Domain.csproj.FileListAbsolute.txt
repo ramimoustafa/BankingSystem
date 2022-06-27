@@ -10,3 +10,15 @@ C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Domain\obj\Debug\net6.0\B
 C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Domain\obj\Debug\net6.0\refint\BankingSystem.Domain.dll
 C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Domain\obj\Debug\net6.0\BankingSystem.Domain.pdb
 C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Domain\obj\Debug\net6.0\ref\BankingSystem.Domain.dll
+C:\Users\Rami\source\repos\Assessment\BankingSystem\BankingSystem.Domain\bin\Debug\net6.0\BankingSystem.Domain.deps.json
+C:\Users\Rami\source\repos\Assessment\BankingSystem\BankingSystem.Domain\bin\Debug\net6.0\BankingSystem.Domain.dll
+C:\Users\Rami\source\repos\Assessment\BankingSystem\BankingSystem.Domain\bin\Debug\net6.0\BankingSystem.Domain.pdb
+C:\Users\Rami\source\repos\Assessment\BankingSystem\BankingSystem.Domain\obj\Debug\net6.0\BankingSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\Rami\source\repos\Assessment\BankingSystem\BankingSystem.Domain\obj\Debug\net6.0\BankingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rami\source\repos\Assessment\BankingSystem\BankingSystem.Domain\obj\Debug\net6.0\BankingSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Rami\source\repos\Assessment\BankingSystem\BankingSystem.Domain\obj\Debug\net6.0\BankingSystem.Domain.AssemblyInfo.cs
+C:\Users\Rami\source\repos\Assessment\BankingSystem\BankingSystem.Domain\obj\Debug\net6.0\BankingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rami\source\repos\Assessment\BankingSystem\BankingSystem.Domain\obj\Debug\net6.0\BankingSystem.Domain.dll
+C:\Users\Rami\source\repos\Assessment\BankingSystem\BankingSystem.Domain\obj\Debug\net6.0\refint\BankingSystem.Domain.dll
+C:\Users\Rami\source\repos\Assessment\BankingSystem\BankingSystem.Domain\obj\Debug\net6.0\BankingSystem.Domain.pdb
+C:\Users\Rami\source\repos\Assessment\BankingSystem\BankingSystem.Domain\obj\Debug\net6.0\ref\BankingSystem.Domain.dll
