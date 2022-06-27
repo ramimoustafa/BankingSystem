@@ -1,0 +1,15 @@
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\bin\Debug\net6.0\BankingSystem.Infrastructure.deps.json
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\bin\Debug\net6.0\BankingSystem.Infrastructure.dll
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\bin\Debug\net6.0\BankingSystem.Infrastructure.pdb
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\bin\Debug\net6.0\BankingSystem.Domain.dll
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\bin\Debug\net6.0\BankingSystem.Domain.pdb
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net6.0\BankingSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net6.0\BankingSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net6.0\BankingSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net6.0\BankingSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net6.0\BankingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net6.0\BankingSystem.Infrastructure.csproj.CopyComplete
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net6.0\BankingSystem.Infrastructure.dll
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net6.0\refint\BankingSystem.Infrastructure.dll
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net6.0\BankingSystem.Infrastructure.pdb
+C:\Users\Rami\source\repos\BankingSystem\BankingSystem.Infrastructure\obj\Debug\net6.0\ref\BankingSystem.Infrastructure.dll

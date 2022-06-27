@@ -1,0 +1,2 @@
+2022-06-25 12:22:54.0578 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-25 20:52:06.3764 ERROR SourceNumber

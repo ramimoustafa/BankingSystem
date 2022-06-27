@@ -1,0 +1,2 @@
+2022-06-24 15:10:09.3940 ERROR The request reached the end of the pipeline without executing the endpoint: 'SoapCore'. Please register the EndpointMiddleware using 'IApplicationBuilder.UseEndpoints(...)' if using routing.
+2022-06-24 22:44:43.4167 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.

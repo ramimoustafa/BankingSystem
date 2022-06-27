@@ -1,0 +1,95 @@
+2022-06-23 10:30:24.4813 Info Message Template Auto Format enabled
+2022-06-23 10:30:24.5992 Info Adding target FileTarget(Name=logfile)
+2022-06-23 10:30:24.6428 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-23 10:30:24.6651 Info Configuration initialized.
+2022-06-23 10:30:24.6813 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-24 15:10:09.1928 Info Message Template Auto Format enabled
+2022-06-24 15:10:09.3040 Info Adding target FileTarget(Name=logfile)
+2022-06-24 15:10:09.3419 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-24 15:10:09.3617 Info Configuration initialized.
+2022-06-24 15:10:09.3835 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-24 22:44:43.3026 Info Message Template Auto Format enabled
+2022-06-24 22:44:43.3708 Info Adding target FileTarget(Name=logfile)
+2022-06-24 22:44:43.3959 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-24 22:44:43.4074 Info Configuration initialized.
+2022-06-24 22:44:43.4167 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-25 12:22:53.8706 Info Message Template Auto Format enabled
+2022-06-25 12:22:53.9843 Info Adding target FileTarget(Name=logfile)
+2022-06-25 12:22:54.0243 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-25 12:22:54.0426 Info Configuration initialized.
+2022-06-25 12:22:54.0578 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-25 20:52:06.2718 Info Message Template Auto Format enabled
+2022-06-25 20:52:06.3352 Info Adding target FileTarget(Name=logfile)
+2022-06-25 20:52:06.3581 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-25 20:52:06.3679 Info Configuration initialized.
+2022-06-25 20:52:06.3764 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-26 01:04:59.1475 Info Message Template Auto Format enabled
+2022-06-26 01:04:59.2464 Info Adding target FileTarget(Name=logfile)
+2022-06-26 01:04:59.2903 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-26 01:04:59.3091 Info Configuration initialized.
+2022-06-26 01:04:59.3091 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-26 01:12:49.7886 Info Message Template Auto Format enabled
+2022-06-26 01:12:49.8923 Info Adding target FileTarget(Name=logfile)
+2022-06-26 01:12:49.9330 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-26 01:12:49.9511 Info Configuration initialized.
+2022-06-26 01:12:49.9649 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-26 01:13:31.3647 Info Message Template Auto Format enabled
+2022-06-26 01:13:31.4738 Info Adding target FileTarget(Name=logfile)
+2022-06-26 01:13:31.5247 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-26 01:13:31.5456 Info Configuration initialized.
+2022-06-26 01:13:31.5648 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-26 01:22:32.7043 Info Message Template Auto Format enabled
+2022-06-26 01:22:32.8124 Info Adding target FileTarget(Name=logfile)
+2022-06-26 01:22:32.8539 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-26 01:22:32.8723 Info Configuration initialized.
+2022-06-26 01:22:32.8867 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-26 01:50:33.1642 Info Message Template Auto Format enabled
+2022-06-26 01:50:33.2618 Info Adding target FileTarget(Name=logfile)
+2022-06-26 01:50:33.3039 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-26 01:50:33.3221 Info Configuration initialized.
+2022-06-26 01:50:33.3350 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-26 02:01:23.5494 Info Message Template Auto Format enabled
+2022-06-26 02:01:23.6570 Info Adding target FileTarget(Name=logfile)
+2022-06-26 02:01:23.7012 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-26 02:01:23.7200 Info Configuration initialized.
+2022-06-26 02:01:23.7322 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-26 17:13:37.1972 Info Message Template Auto Format enabled
+2022-06-26 17:13:37.3080 Info Adding target FileTarget(Name=logfile)
+2022-06-26 17:13:37.3523 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-26 17:13:37.3738 Info Configuration initialized.
+2022-06-26 17:13:37.3905 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-26 17:17:21.4481 Info Message Template Auto Format enabled
+2022-06-26 17:17:21.5446 Info Adding target FileTarget(Name=logfile)
+2022-06-26 17:17:21.5875 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-26 17:17:21.6065 Info Configuration initialized.
+2022-06-26 17:17:21.6186 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-27 12:00:05.5577 Info Message Template Auto Format enabled
+2022-06-27 12:00:05.6292 Info Adding target FileTarget(Name=logfile)
+2022-06-27 12:00:05.6599 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-27 12:00:05.6719 Info Configuration initialized.
+2022-06-27 12:00:05.6826 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-27 12:01:53.7315 Info Message Template Auto Format enabled
+2022-06-27 12:01:53.8069 Info Adding target FileTarget(Name=logfile)
+2022-06-27 12:01:53.8344 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-27 12:01:53.8344 Info Configuration initialized.
+2022-06-27 12:01:53.8553 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-27 12:05:42.8186 Info Message Template Auto Format enabled
+2022-06-27 12:05:42.8893 Info Adding target FileTarget(Name=logfile)
+2022-06-27 12:05:42.9150 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-27 12:05:42.9266 Info Configuration initialized.
+2022-06-27 12:05:42.9266 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-28 01:00:43.1869 Info Message Template Auto Format enabled
+2022-06-28 01:00:43.2532 Info Adding target FileTarget(Name=logfile)
+2022-06-28 01:00:43.2795 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-28 01:00:43.2910 Info Configuration initialized.
+2022-06-28 01:00:43.2910 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-28 01:24:11.2161 Info Message Template Auto Format enabled
+2022-06-28 01:24:11.2912 Info Adding target FileTarget(Name=logfile)
+2022-06-28 01:24:11.3157 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-28 01:24:11.3270 Info Configuration initialized.
+2022-06-28 01:24:11.3359 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-28 01:25:28.2967 Info Message Template Auto Format enabled
+2022-06-28 01:25:28.3788 Info Adding target FileTarget(Name=logfile)
+2022-06-28 01:25:28.4070 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Rami\source\repos\BankingSystem\BankingSystem.API\bin\Debug\net6.0\NLog.config
+2022-06-28 01:25:28.4224 Info Configuration initialized.
+2022-06-28 01:25:28.4323 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False

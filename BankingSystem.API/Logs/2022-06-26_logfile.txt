@@ -1,0 +1,26 @@
+2022-06-26 01:04:59.3325 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:05:13.3959 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:12:49.9740 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:13:31.5648 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:22:32.8960 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:24:35.4673 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:25:04.2482 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:28:27.4515 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:28:39.8418 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:28:51.8251 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:30:15.5930 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:30:24.3425 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:32:18.9732 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:32:48.0368 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:38:07.1987 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:39:03.5270 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:41:29.3536 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:50:33.3350 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:51:10.2213 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:51:16.2886 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:52:48.1092 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:53:02.3490 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:53:06.2027 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 01:53:09.6759 ERROR No service for type 'SoapCore.Extensibility.IFaultExceptionTransformer' has been registered.
+2022-06-26 17:13:37.3905 ERROR An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+2022-06-26 17:17:21.6270 ERROR Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.IActionResult'.
